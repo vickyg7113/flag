@@ -1,1 +1,80 @@
-# flag
+<html>
+ <head> 
+  <style>
+      .d{
+        background-color:orange;
+        text-align:center;
+      }
+    .f{
+    text-align:center;
+    }
+      .e{
+        background-color:green;
+      }
+      </style> 
+ </head> 
+ <body> 
+  <h1> Flag </h1> 
+  <div class="d"> 
+   <table> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+   </table> 
+  </div> 
+   <div class="f">
+  <table> 
+    <img src="download.jpeg">
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+    <tr> 
+    </tr> 
+  </table> 
+     </div>
+  <div class="e"> 
+   <table> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+     <tr> 
+     </tr> 
+   </table> 
+  </div> 
+ </body>
+</html>
