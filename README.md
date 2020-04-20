@@ -3,7 +3,6 @@
   <style>
       .d{
         background-color:orange;
-        text-align:center;
       }
     .f{
     text-align:center;
